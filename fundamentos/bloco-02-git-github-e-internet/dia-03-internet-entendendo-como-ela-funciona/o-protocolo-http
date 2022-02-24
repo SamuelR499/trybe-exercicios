@@ -1,0 +1,10 @@
+o funcionamento da Internet depende de regras, que são os protocolos. É através desses protocolos que conseguimos acessar páginas, fazer downloads, enviar emails.
+Dentre os protocolos, há dois que são frequentemente utilizados:
+-otocolo TCP/IP;
+-protocolo HTTP;
+
+Cada requisição e resposta trocada entre Cliente e Servidor é uma única transação HTTP. O HTTP é uma linguagem de texto, o que significa que as mensagens trocadas são quantificadas em bits. Cada mensagem é dividida em duas partes: o header e o body .			
+
+É importante ter em mente que o HTTP por si só não consegue transmitir dados. Ele ainda depende do protocolo TCP/IP para pegar as requisições e respostas entre duas máquinas. O HTTP é uma camada de abstração que padroniza a forma com que os hosts se comunicam.
+
+

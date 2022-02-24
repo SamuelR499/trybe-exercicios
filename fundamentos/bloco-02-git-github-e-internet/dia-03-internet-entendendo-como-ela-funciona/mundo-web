@@ -1,0 +1,14 @@
+1. Explicar de forma simples como a internet funciona;
+	conceitos basicos:
+- Cliente: firefox, Mozilla, Chrome... 
+- O cliente é uma aplicação que está conectada à Internet.
+- A sua principal função é receber a interação do usuário e traduzi-la em uma requisição para outro computador chamado Servidor Web.
+-todo computador tem um numero unico chamado endereço IP.
+- cliente fara um busca, nossa busca por www.google.com será enviada para um Servidor(tambem tem um IP).
+-  o tcp/ip é responsavel por converter o iplogito em ip fisco.
+- ISP(Internet Service Provider) qualquer empresa  que forneca acesso ao maravilhoso mundo web.
+- port number o numero de porta é um numero de 16bits utilizado para identificar uma porta específica no servidor, e está sempre associado ao endereço IP.
+- Host é qualquer computador conectado a rede tem um ip unico pode ser cliente, servidor o uuqalquer dispositivo, hospedar pagina web.
+- HTTP Hyper-text Transfer Protocol é o protocolo utilizado para a comunicação entre navegadores e servidores na Internet.
+- O URL é a sigla para Uniform Resource Locators e identifica um recurso web específico.
+

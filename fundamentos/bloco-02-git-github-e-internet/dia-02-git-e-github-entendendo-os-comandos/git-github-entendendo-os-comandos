@@ -1,0 +1,16 @@
+README - importante para todos projetos. | dono do repositorio pode comitar direto na main
+
+branch update, copia tudo da branch main
+
+git branch checkout <nome da branch> trocar de branch | checkout -b cira e muda para uma branch
+
+ 		
+ 		git add <nome do arquiv> adiciona o arquivo no git
+ 		git commit -m ¨referencia do que foi feito" cria  um log da ultima alteração
+ 		git push empurra arquivo para o git remoto(Github)
+ 
+pull request PR pessoas podem avaliar, sugerir, aprovar. | proteger o projeto.
+
+add collaborator adicionar uma pessoa para colaborar, antes dar merge(trazer a alteração para a branch main) sera feito uma avaliação antes de unir o código.
+
+
