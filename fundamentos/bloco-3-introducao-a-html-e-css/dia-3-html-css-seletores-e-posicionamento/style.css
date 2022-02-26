@@ -1,0 +1,43 @@
+body{ 
+    background-color:#d6d4e0;
+    font-family: mulish, sans-serif;
+}
+
+a{
+    color: #5b9aa0;
+    text-decoration: none;
+}
+
+.style-text{
+    color: #622569;
+}
+
+h1{
+    font-size: 65px;
+    color: #622569;
+}
+
+.listas{
+    background-color: #622569;
+    color: white;
+    padding: 15px 15px;
+    border-radius: 40px;
+}
+
+img{
+    border-radius:20px 20px 100px;
+}
+
+a{
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 10px;   
+}
+
+.subtitulos {
+    font-weight: bold;
+    color: #5b9aa0;
+}
+
+
