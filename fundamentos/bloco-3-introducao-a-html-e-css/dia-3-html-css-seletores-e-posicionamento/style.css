@@ -10,6 +10,7 @@ a{
 
 .style-text{
     color: #622569;
+    width: 90%;
 }
 
 h1{
@@ -22,6 +23,8 @@ h1{
     color: white;
     padding: 15px 15px;
     border-radius: 40px;
+    width: 400px;
+    margin: 15px 15px 30px;
 }
 
 img{
@@ -38,6 +41,12 @@ a{
 .subtitulos {
     font-weight: bold;
     color: #5b9aa0;
+    width: 420px;
 }
 
-
+.taruma{
+    color: #1b5257;
+    background-color: chartreuse;
+    border-radius: 60px;
+    padding: 1px 10px;
+}
