@@ -76,9 +76,29 @@
 
     //Requisito 4
      function corrigeTexto(){
-      document.getElementsByTagName ("h1")
+      titulo = document.getElementsByTagName("h1")[0]
+      titulo.innerText = "Exercício 5.1 - JavaScripit"
      }
+     corrigeTexto()
 
+    //Requisito 5
+     function uperCase(){
+      let p2 = document.getElementsByTagName('p')[1];
+      p2.style.textTransform = "uppercase";
+     }
+     uperCase();
+
+     //Requisito 6
+     function showAllParagraph(){
+       
+     let allParagraph = document.querySelectorAll("p");
+    //  let array = [""];
+    //  for(i= 0; i < allParagraph.length; i+= 0);
+    //   array.push(allParagraph[i].innerHTML);
+    //   console.log(array);
+      console.log(allParagraph);
+  }
+      showAllParagraph();
     </script>
   </body>
 </html>
