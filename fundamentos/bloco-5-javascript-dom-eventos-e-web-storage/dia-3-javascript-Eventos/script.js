@@ -78,11 +78,11 @@ function btnFridayEvent() {
     let fridayChange = document.querySelectorAll('.friday');
     let originalText = document.getElementById('days').style.color;
     for (index = 0; index < fridayChange.length; index++) {
-        
+
         if (fridayChange[index].style.color === originalText) {
             console.log('teste2');
             fridayChange[index].style.color = 'yellow';
-        }else if( fridayChange[index].style.color === 'yellow'){
+        } else if (fridayChange[index].style.color === 'yellow') {
             fridayChange[index].style.color = originalText;
         }
     }
@@ -97,5 +97,24 @@ function creatBtn(string) {
 }
 
 creatBtn('Sexta-feira');
-// console.log(paidoButton);
 
+let xday = document.getElementsByTagName('li');
+console.log(xday);
+for (i of xday) {
+    i.addEventListener('mouseover', mouseOver);
+    i.addEventListener('mouseout', mouseOut);
+}
+
+function mouseOver() {
+    console.log('mouse over!')
+    for(i of xday){
+        i.style.fontSize = '30px';
+    }
+}
+
+function mouseOut() {
+     console.log('mouse out!');
+     for(i of xday){
+        i.style.fontSize = '20px';
+    }
+}
