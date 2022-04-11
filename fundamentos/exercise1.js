@@ -95,7 +95,22 @@ function oldBooksOrdered() {
 function fantasyOrScienceFictionAuthors() {
     const ficcaoFantasia = books.filter((book) => book.genre === 'Ficção Científica' || book.genre === 'Fantasia');
     const apenasNomes = ficcaoFantasia.map((book) => book.author.name)
-     return apenasNomes.sort((a, b) => a < b ? -1 : 1) 
+    return apenasNomes.sort((a, b) => a < b ? -1 : 1)
 }
 
-console.log(fantasyOrScienceFictionAuthors());
+// console.log(fantasyOrScienceFictionAuthors());
+
+function oldBooks() {
+
+    const maisDe60 = books.filter((book) => 2022 - book.releaseYear > 60)
+    return maisDe60.map((book) => book.name)
+}
+// console.log(oldBooks());
+
+function authorWith3DotsOnName() {
+    const theAutor = books.find((autor) => autor.author.name.substring(0, 8) === 'J. R. R.');
+    const theBook = theAutor.name
+    return theBook;
+  }
+console.log(authorWith3DotsOnName());
+
