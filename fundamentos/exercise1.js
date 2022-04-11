@@ -62,14 +62,32 @@ const books = [
   ];
   
   // Adicione o código do exercício aqui:
-  const newString = books.map((book)=>`${book.name} - ${book.genre} - ${book.author.name}`)
+  function formatedBookNames(livros) {
+      return livros.map((book)=>`${book.name} - ${book.genre} - ${book.author.name}`)
+  }
 
-// console.log(newString);
+// console.log(formatedBookNames(books));
 
-const nomeIdade = books.map((book)=>({
-    age:book.releaseYear - book.author.birthYear, name: book.author.name
-}))
 
-const idadePrder = nomeIdade.sort((a , b)=> a.age - b.age);
+function nameAndAge(livros) {
+    const nomeIdade = livros.map((book)=>({
+        age:book.releaseYear - book.author.birthYear, name: book.author.name
+    }))
+    return nomeIdade.sort((a , b)=> a.age - b.age);
+  }
 
-console.log(idadePrder);
+// console.log(nameAndAge(books));
+
+function fantasyOrScienceFiction() {
+    return books.filter((book)=> book.genre ==='Ficção Científica' || book.genre === 'Fantasia');
+    
+  }
+// console.log(fantasyOrScienceFiction());
+
+function oldBooksOrdered() {
+   
+    const maisDe60 = books.filter((book)=> 2022 - book.releaseYear > 60)
+    return maisDe60.sort((a,b)=> a.releaseYear - b.releaseYear)
+  }
+
+  console.log(oldBooksOrdered());
