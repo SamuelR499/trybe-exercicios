@@ -64,4 +64,12 @@ const books = [
   // Adicione o código do exercício aqui:
   const newString = books.map((book)=>`${book.name} - ${book.genre} - ${book.author.name}`)
 
-console.log(newString);
+// console.log(newString);
+
+const nomeIdade = books.map((book)=>({
+    age:book.releaseYear - book.author.birthYear, name: book.author.name
+}))
+
+const idadePrder = nomeIdade.sort((a , b)=> a.age - b.age);
+
+console.log(idadePrder);
