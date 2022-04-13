@@ -68,10 +68,10 @@ function reduceNames() {
     // escreva seu código aqui
     const string = books.reduce((acc, book, i, array) => {
         // if (i === array.length - 1) { // se o indice atual for o ultimo
-        //     acc += `${book.author.name}.`;
+        //  return  acc += `${book.author.name}.`;
         // }
         acc += `${book.author.name}, `;
-        const string1 = acc.slice(0, -1)
+        const string1 = acc.slice(0,-4)
         return string1.replace(/.$/, '.');
     }, '')
     return string;
