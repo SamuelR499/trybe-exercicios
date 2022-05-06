@@ -1,10 +1,11 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export default class PokemonCard extends React.Component {
   render() {
-      console.log(this);
-     const { name, type, weight, unity, image } = this.props;
-     return (
+    console.log(this);
+    const { name, type, weight, unity, image } = this.props;
+    return (
       <div>
         <p>Nome:{name} </p>
         <p>Tipo:{type}</p>
@@ -17,3 +18,11 @@ export default class PokemonCard extends React.Component {
     );
   }
 }
+
+PokemonCard.propTypes = {
+  name: PropTypes.string.isRequired,
+  type: PropTypes.string.isRequired,
+  weight: PropTypes.number.isRequired,
+  unity: PropTypes.string.isRequired,
+  image: PropTypes.string.isRequired
+};
