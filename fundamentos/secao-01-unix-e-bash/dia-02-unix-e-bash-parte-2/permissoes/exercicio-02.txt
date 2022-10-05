@@ -1,0 +1,5 @@
+• Rode o comando ls -l e veja quais as permissões dos arquivos.
+
+Solução ↓
+
+    ls -l

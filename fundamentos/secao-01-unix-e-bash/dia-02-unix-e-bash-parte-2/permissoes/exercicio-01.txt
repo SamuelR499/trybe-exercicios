@@ -1,0 +1,12 @@
+• Crie a pasta unix_tests_permissions e navegue até ela.
+
+Solução ↓
+
+# o comando para navegar é o: cd
+# vai depender de qual pasta você estiver, e de onde a pasta 
+unix_tests_permissions estiver
+# use o comando: pwd para verificar em qual pasta você está
+
+    mkdir unix_tests_permissions
+    cd /home/joaozinho/unix_tests_permissions
+    pwd

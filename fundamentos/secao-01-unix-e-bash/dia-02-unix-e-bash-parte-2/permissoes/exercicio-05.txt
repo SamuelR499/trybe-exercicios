@@ -1,0 +1,7 @@
+• Tire a permissão de escrita do arquivo arquivo_teste.txt para todas
+as pessoas usuárias, verifique se está correto com o comando ls -l.
+
+Solução ↓
+
+    chmod a-w arquivo_teste.txt
+    ls -l

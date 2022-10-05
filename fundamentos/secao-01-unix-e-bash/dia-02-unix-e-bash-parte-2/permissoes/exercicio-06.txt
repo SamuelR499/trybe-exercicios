@@ -1,0 +1,7 @@
+• Volte a permissão do arquivo arquivo_teste.txt para
+a listada inicialmente utilizando o comando chmod 644 arquivo_teste.txt.
+
+Solução ↓
+
+    chmod 644 arquivo_teste.txt
+    ls -l
