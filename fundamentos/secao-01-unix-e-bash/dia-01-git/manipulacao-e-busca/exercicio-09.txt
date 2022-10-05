@@ -1,0 +1,6 @@
+• Crie os arquivos empty.tbt e empty.pdf.
+
+Solução ↓
+
+  touch empty.tbt
+  touch empty.pdf

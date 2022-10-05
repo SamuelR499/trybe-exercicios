@@ -1,0 +1,5 @@
+• Busque por Brazil no countries.txt.
+
+Solução ↓
+
+  grep Brazil countries.txt

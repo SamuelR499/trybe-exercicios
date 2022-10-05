@@ -1,0 +1,5 @@
+• Mostre todo o conteúdo do arquivo countries.txt na tela.
+
+Solução ↓
+
+  cat countries.txt

@@ -1,0 +1,5 @@
+• Conte o número de linhas do arquivo phrases.txt.
+
+Solução ↓
+
+  wc -l phrases.txt

@@ -1,0 +1,5 @@
+• Liste todos os arquivos que terminem com tbt ou txt.
+
+Solução ↓
+
+  ls -l *t?t

@@ -1,0 +1,7 @@
+• Mostre o conteúdo de countries.txt, página por página, até encontrar a Zambia.
+
+Solução ↓
+
+  less countries.txt
+  # ou...
+  more countries.txt
