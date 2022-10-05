@@ -1,5 +1,0 @@
-• Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2.
-
-Solução ↓
-
-  mv backup/trybe_backup.txt backup2

@@ -1,5 +1,0 @@
-• Apague a pasta backup.
-
-Solução ↓
-
-  rmdir backup

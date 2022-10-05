@@ -1,5 +1,0 @@
-• Crie um arquivo de texto com o nome trybe.txt.
-
-Solução ↓
-
-  touch trybe.txt

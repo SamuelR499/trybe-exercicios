@@ -1,5 +1,0 @@
-• Renomeie a pasta backup2 para backup.
-
-Solução ↓
-
-  mv backup2 backup
