@@ -1,6 +1,6 @@
 # Trybe
 
-###ENG-US
+### ENG-US
 
 This repository contains all study activities developed by _[Samuel ribeiro](https://www.linkedin.com/in/samuel-ribeiro-273ba6199/)_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
