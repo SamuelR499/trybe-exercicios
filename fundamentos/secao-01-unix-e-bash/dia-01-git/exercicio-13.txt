@@ -1,0 +1,5 @@
+• Limpe o terminal.
+
+Solução ↓
+
+  clear

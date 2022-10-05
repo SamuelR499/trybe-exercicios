@@ -1,0 +1,5 @@
+• Mova o arquivo trybe_backup.txt para o diretório backup.
+
+Solução ↓
+
+  mv trybe_backup.txt backup
