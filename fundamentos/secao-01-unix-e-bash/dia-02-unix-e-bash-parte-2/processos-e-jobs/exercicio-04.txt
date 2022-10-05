@@ -1,0 +1,13 @@
+• Execute novamente o comando sleep 30, mas agora sem o &. Depois,
+faça com que ele continue executando em background.
+
+Solução ↓
+
+    sleep 30
+# aperte "ctrl+z" enquanto o processo está rodando
+# deve aparecer "suspended" no terminal
+
+# depois continue a execução usando o comando: bg
+    ->bg
+# deve aparecer "continued" no terminal
+# depois que passar os 30 segundos, deve aparecer "done" no terminal :)

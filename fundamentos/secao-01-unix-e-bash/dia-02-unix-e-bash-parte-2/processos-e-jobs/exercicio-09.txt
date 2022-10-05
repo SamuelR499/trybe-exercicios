@@ -1,0 +1,10 @@
+• Termine a execução de todos os processos sleep ~~(mate os processos)~~.
+
+Solução ↓
+
+    ps | grep sleep
+    kill 3834 # assumindo que 1234 seja o PID de um dos processos sleep
+    kill 1527 # assumindo que 4567 seja o PID de um dos processos sleep
+    kill 1091 # assumindo que 7890 seja o PID de um dos processos sleep
+    # ou...
+    killall sleep
