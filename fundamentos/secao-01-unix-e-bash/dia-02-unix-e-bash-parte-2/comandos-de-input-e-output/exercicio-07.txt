@@ -1,3 +1,5 @@
-• 
+• Conte o número de linhas que contêm as letras br.
 
 Solução ↓
+
+    grep br phrases2.txt | wc -l

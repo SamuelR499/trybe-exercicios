@@ -1,3 +1,5 @@
-• 
+• Conte quantas linhas tem o arquivo skills2.txt.
 
 Solução ↓
+
+    cat skills2.txt | wc -l

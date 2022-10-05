@@ -1,3 +1,13 @@
-• 
+• Crie a pasta unix_tests_skills e navegue até ela.
 
 Solução ↓
+
+# O comando para navegar é o: cd
+# O caminho utilizado em conjunto com o comando vai depender de qual pasta
+# você estiver e de onde a pasta unix_tests_skills estiver.
+# Use o comando pwd para verificar em qual pasta você está.
+# Dessa forma, você confirmará se está na pasta unix_tests_skills.
+
+	mkdir unix_tests_skills
+	cd /home/samuel/unix_tests_skills
+	pwd

@@ -1,3 +1,6 @@
-• 
+• Crie um arquivo chamado top_skills.txt usando o skills2.txt,
+contendo as 3 primeiras skills em ordem alfabética.
 
 Solução ↓
+
+    sort < skills2.txt | head -n 3 > top_skills.txt

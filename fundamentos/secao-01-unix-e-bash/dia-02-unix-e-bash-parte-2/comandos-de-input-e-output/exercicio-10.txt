@@ -1,3 +1,7 @@
-• 
+• Crie um novo arquivo chamado bunch_of_things.txt
+com os conteúdos dos arquivos phrases2.txt e countries.txt.
 
 Solução ↓
+
+    cp countries.txt bunch_of_things.txt
+    cat phrases2.txt >> bunch_of_things.txt
