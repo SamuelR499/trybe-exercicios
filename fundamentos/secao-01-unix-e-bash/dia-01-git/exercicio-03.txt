@@ -1,0 +1,5 @@
+• Crie uma cópia do arquivo trybe.txt com o nome trybe_backup.txt.
+
+Solução ↓
+
+  cp trybe.txt trybe_backup.txt
