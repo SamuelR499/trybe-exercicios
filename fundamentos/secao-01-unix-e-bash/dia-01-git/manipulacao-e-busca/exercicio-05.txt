@@ -1,0 +1,5 @@
+• Busque novamente por brazil, mas agora utilizando o lower case.
+
+Solução ↓
+
+  grep -i brazil countries.txt

@@ -1,0 +1,5 @@
+• Conte o número de palavras do arquivo phrases.txt.
+
+Solução ↓
+
+  wc -w phrases.txt

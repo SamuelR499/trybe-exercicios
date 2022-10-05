@@ -1,0 +1,5 @@
+• Liste todos os arquivos que terminem com txt.
+
+Solução ↓
+
+  ls -l *txt

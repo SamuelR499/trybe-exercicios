@@ -1,0 +1,5 @@
+• Busque pelas frases que não contenham a palavra fox.
+
+Solução ↓
+
+  grep -v fox phrases.txt

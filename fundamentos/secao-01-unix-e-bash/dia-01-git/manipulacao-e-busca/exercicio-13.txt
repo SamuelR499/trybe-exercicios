@@ -1,0 +1,5 @@
+• Acesse o manual do comando ls.
+
+Solução ↓
+
+  man ls
