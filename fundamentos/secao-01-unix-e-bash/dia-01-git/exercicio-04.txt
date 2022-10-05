@@ -1,0 +1,5 @@
+• Renomeie o arquivo trybe.txt.
+
+Solução ↓
+
+  mv trybe.txt trybe_renamed.txt
