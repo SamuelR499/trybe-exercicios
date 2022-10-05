@@ -1,0 +1,9 @@
+• Retome a execução do processo sleep 100 em background.
+
+Solução ↓
+
+    bg %3 
+# executando o processo sleep 100 em background com o comando bg
+    
+    jobs
+# deve aparecer "running" à esquerda do processo sleep 100

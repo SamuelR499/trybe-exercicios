@@ -1,3 +1,5 @@
-• 
+• Conte o número de linhas que não contêm as letras br.
 
 Solução ↓
+
+    grep -v br phrases2.txt | wc -l

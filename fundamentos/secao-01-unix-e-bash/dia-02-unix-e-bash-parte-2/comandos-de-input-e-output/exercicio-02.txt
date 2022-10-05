@@ -1,3 +1,9 @@
-• 
+• Crie um arquivo texto com o nome skills2.txt e adicione os valores Internet,
+Unix e Bash, um em cada linha.
 
 Solução ↓
+
+	touch skills2.txt
+	echo "Internet" >> skills2.txt
+	echo "Unix" >> skills2.txt
+	echo "Bash" >> skills2.txt

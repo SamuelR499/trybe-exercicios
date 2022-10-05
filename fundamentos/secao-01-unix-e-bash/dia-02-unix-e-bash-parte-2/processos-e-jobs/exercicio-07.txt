@@ -1,0 +1,17 @@
+• Verifique que apenas o processo sleep 300 está em execução
+com o comando jobs. Suspenda a execução desse processo
+(você vai precisar trazer o processo para foreground e suspendê-lo,
+ou enviar um sinal).
+
+Solução ↓
+
+    jobs
+# deve aparecer "running" à esquerda do processo sleep 300
+
+    fg %1
+# trazendo o processo sleep 300 para foreground com o comando fg
+# aperte "ctrl+z" enquanto o processo está rodando
+# deve aparecer "suspended" no terminal
+
+    jobs
+# todos os processos devem aparecer como "suspended"

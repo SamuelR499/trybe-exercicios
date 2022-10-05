@@ -1,0 +1,12 @@
+• Crie mais dois processos que rodem o comando sleep por 200 e 100 segundos,
+respectivamente. Você deve criá-los em foreground (sem usar o &)
+e enviá-los para background após cada um começar a executar.
+
+Solução ↓
+
+    sleep 200
+# aperte "ctrl+z" enquanto o processo está rodando
+# deve aparecer "suspended" no terminal
+    sleep 100
+# aperte "ctrl+z" enquanto o processo está rodando
+# deve aparecer "suspended" no terminal

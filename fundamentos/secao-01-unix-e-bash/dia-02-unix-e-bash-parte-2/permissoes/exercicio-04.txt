@@ -1,0 +1,8 @@
+• Mude a permissão do arquivo arquivo_teste.txt para que todas
+as pessoas usuáriaspossam ter acesso à leitura e escrita e verifique
+se está correto com o comando ls -l.
+
+Solução ↓
+
+    chmod a+rw arquivo_teste.txt
+    ls -l

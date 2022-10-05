@@ -1,0 +1,5 @@
+• Agora use o comando sleep 30 &.
+
+Solução ↓
+
+    sleep 30 &

@@ -1,0 +1,5 @@
+• Crie o arquivo arquivo_teste.txt.
+
+Solução ↓
+
+    touch arquivo_teste.txt

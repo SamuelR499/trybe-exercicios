@@ -1,3 +1,6 @@
-• 
+• Adicione dois nomes de países ao final do arquivo phrases2.txt.
 
 Solução ↓
+
+    echo "Japão" >> phrases2.txt
+    echo "Austrália" >> phrases2.txt

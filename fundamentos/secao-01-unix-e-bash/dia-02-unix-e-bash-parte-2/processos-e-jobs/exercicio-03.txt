@@ -1,0 +1,10 @@
+• Use a listagem de processos para encontrar o PID do processo
+que está executando o comando sleep 30 e termine a sua execução
+~~(mate o processo)~~.
+
+Solução ↓
+
+    ps | grep sleep
+    kill 1234 
+# se 1234 for o PID do processo criado no Exercício 2
+# deve aparecer "terminated" no terminal

@@ -1,3 +1,5 @@
-• 
+• Ordene o arquivo bunch_of_things.txt.
 
 Solução ↓
+
+    sort bunch_of_things.txt -o bunch_of_things.txt

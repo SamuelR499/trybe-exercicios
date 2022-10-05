@@ -1,3 +1,10 @@
-• 
+• Adicione mais 5 itens à sua lista de skills e depois imprima a lista ordenada no terminal
 
 Solução ↓
+
+    echo "HTML" >> skills2.txt
+    echo "CSS" >> skills2.txt
+    echo "JavaScript" >> skills2.txt
+    echo "React" >> skills2.txt
+    echo "SQL" >> skills2.txt
+    sort < skills2.txt
