@@ -1,0 +1,5 @@
+• Dentro de unix_tests, crie um novo diretório chamado backup.
+
+Solução ↓
+
+  mkdir backup

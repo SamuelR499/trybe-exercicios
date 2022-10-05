@@ -1,0 +1,5 @@
+• Apague o diretório backup.
+
+Solução ↓
+
+  rm -rd backup
