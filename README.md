@@ -12,5 +12,10 @@ There's more than 1500 hours of classes both on-site and online, the curriculum 
 
 ##### Section 1: Introduction - Unix & Shell
 
-- [x] 1-3: _Unix & Shell- Part 1_
-- [x] 1-4: _Unix & Shell- Part 2_
+- [x] 1: _Unix & Shell- Part 1_
+- [x] 2: _Unix & Shell- Part 2_
+
+##### Section 2: Git & GitHub
+
+- [ ] 1: _What it is and what it is for?_
+- [ ] 2: _Understanding commands_
