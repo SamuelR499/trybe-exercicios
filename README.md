@@ -14,7 +14,15 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 1.1 - _Unix & Shell - Parte 1_
 - [x] 1.2 - _Unix & Shell - Parte 2_
 
-##### Section 2: Git & GitHub
+##### Seção 2: Git & GitHub
 
 - [x] 2.1 - _O que é e para que serve?_
 - [x] 2.2 - _Etendendo os comandos_
+
+##### Seção 3: Introdução - HTML & CSS
+
+- [ ] 3-1: _HTML & CSS - Estruturas de páginas_
+- [ ] 3-2: _HTML & CSS - CSS Primeiros passos_
+- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [ ] 3-4: _HTML Semântico_
+- [ ] 3-5: _[Projeto - Lessons Learned]()_
