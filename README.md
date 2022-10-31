@@ -29,7 +29,7 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 ##### Seção 4: Introdução - JavaScript
 
-- [ ] 4-1: _JavaScript - Primeiros passos_
+- [x] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop For_
 - [ ] 4-3: _JavaScript -Lógica de programação e algoritmos_
 - [ ] 4-4: _JavaScript - Objetos e Funções_
