@@ -23,6 +23,6 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 - [x] 3-1: _HTML & CSS - Estruturas de páginas_
 - [x] 3-2: _HTML & CSS - CSS Primeiros passos_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - Lessons Learned]()_
