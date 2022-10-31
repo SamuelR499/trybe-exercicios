@@ -26,3 +26,12 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-021-a-project-lessons-learned/pull/67)_
+
+##### Seção 4: Introdução - JavaScript
+
+- [ ] 4-1: _JavaScript - Primeiros passos_
+- [ ] 4-2: _JavaScript - Array e loop For_
+- [ ] 4-3: _JavaScript -Lógica de programação e algoritmos_
+- [ ] 4-4: _JavaScript - Objetos e Funções_
+- [ ] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ ] 4-6: _[Projeto - Playground Functions]()_
