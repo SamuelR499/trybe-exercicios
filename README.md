@@ -34,4 +34,16 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 4-3: _JavaScript -Lógica de programação e algoritmos_
 - [x] 4-4: _JavaScript - Objetos e Funções_
 - [x] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 4-6: _[Projeto - Playground Functions](https://github.com/SamuelR499/playground-functions)_
+- [x] 4-6: _[Projeto - Playground Functions](https://github.com/SamuelR499/playground-functions)_
+
+##### Seção 5: Introdução - JavaScript - Projetos
+
+- [ ] 5-1: _JavaScript - DOM e seletores_
+- [ ] 5-2: _JavaScript - trabalhando com elementos_
+- [ ] 5-3: _JavaScript - Eventos_
+- [ ] 5-4: _JavaScript - Web Storage_
+- [ ] 5-5: _[Project - Meme Generator]()_
+- [ ] 5-6: _[Project - Pixel Art]()_
+- [ ] 5-7: _[Project - To-do list]()_
+- [ ] 5-7: _[Project - Guess the color]()_
+- [ ] 5-7: _[Project - Mistery Letter]()_
