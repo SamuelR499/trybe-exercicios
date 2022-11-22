@@ -33,5 +33,5 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript -Lógica de programação e algoritmos_
 - [x] 4-4: _JavaScript - Objetos e Funções_
-- [ ] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 4-6: _[Projeto - Playground Functions](https://github.com/SamuelR499/playground-functions)_
