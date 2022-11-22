@@ -71,8 +71,18 @@
       const correctTitle = () => {
       let title = document.getElementsByTagName('h1')[0];
       title.innerHTML = 'Desafio - JavaScript';
-    }
-    correctTitle();
+      }
+      correctTitle();
+
+      // Exercício 05
+      // Crie e execute uma função que modifique o texto da primeira tag <p> para maiúsculo.
+
+      const paragraphUpperCase = () => {
+        let paragraph = document.getElementsByTagName('p')[0];
+        paragraph.innerHTML = paragraph.innerHTML.toUpperCase();
+      }
+      paragraphUpperCase();
+
     </script>
   </body>
 </html>
