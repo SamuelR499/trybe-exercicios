@@ -66,6 +66,13 @@
         localStorage.setItem("fontSize", size)
       }
 
+      let lineHeightButtons = document.querySelectorAll("#line-height>button")
+      for (let index = 0; index < lineHeightButtons.length; index += 1) {
+        lineHeightButtons[index].addEventListener("click", (event) => {
+          setLineHeight(event.target.innerHTML)
+        })
+      }
+
       const initialize = () => {
         let backgroundColor = localStorage.getItem("backgroundColor");
         if(backgroundColor) setBackgroundColor(backgroundColor);
@@ -75,6 +82,9 @@
 
         let fontSize = localStorage.getItem("fontSize")
         if (fontSize) setFontSize(fontSize)
+
+        let lineHeight = localStorage.getItem("lineHeight")
+        if (lineHeight) setLineHeight(lineHeight)       
 
       };
       
