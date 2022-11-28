@@ -43,15 +43,27 @@
   </style>
   <script>
     window.onload = () => {
+
       const setBackgroundColor = (color) => {
         let content = document.querySelector(".content");
         content.style.backgroundColor = color;
         localStorage.setItem("backgroundColor", color);
       };
 
+      const setFontColor = (color) => {
+        let paragraphs = document.querySelectorAll(".paragraph")
+        for (let index = 0; index < paragraphs.length; index += 1) {
+          paragraphs[index].style.color = color
+        }
+        localStorage.setItem("fontColor", color)
+      }
+
       const initialize = () => {
         let backgroundColor = localStorage.getItem("backgroundColor");
         if(backgroundColor) setBackgroundColor(backgroundColor);
+        
+        let fontColor = localStorage.getItem("fontColor")
+        if (fontColor) setFontColor(fontColor)
       };
       
       initialize()
