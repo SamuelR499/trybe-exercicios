@@ -123,3 +123,21 @@ let decemberFridays = [ 4, 11, 18, 25 ];
 displayFridays(decemberFridays);
 
 // -----------------
+
+const dayMouseOver = () => {
+  let days = document.querySelector('#days');
+  days.addEventListener('mouseover', (event) => {
+    event.target.style.fontSize = '30px';
+    event.target.style.fontWeight = '600';
+  });
+}
+const dayMouseOut = () => {
+  let days = document.querySelector('#days');
+  days.addEventListener('mouseout', (event) => {
+    event.target.style.fontSize = '20px';
+    event.target.style.fontWeight = '200';
+  });
+}
+
+dayMouseOver();
+dayMouseOut();
