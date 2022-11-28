@@ -58,12 +58,24 @@
         localStorage.setItem("fontColor", color)
       }
 
+      const setFontSize = (size) => {
+        let paragraphs = document.querySelectorAll(".paragraph")
+        for (let index = 0; index < paragraphs.length; index += 1) {
+          paragraphs[index].style.fontSize = size
+        }
+        localStorage.setItem("fontSize", size)
+      }
+
       const initialize = () => {
         let backgroundColor = localStorage.getItem("backgroundColor");
         if(backgroundColor) setBackgroundColor(backgroundColor);
         
         let fontColor = localStorage.getItem("fontColor")
         if (fontColor) setFontColor(fontColor)
+
+        let fontSize = localStorage.getItem("fontSize")
+        if (fontSize) setFontSize(fontSize)
+
       };
       
       initialize()
