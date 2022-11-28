@@ -93,11 +93,16 @@
       elementImg.src = 'https://picsum.photos/200';
       elementSectionLeft.appendChild(elementImg);
 
-      // Adicione uma imagem com `src` configurado para o valor `https://picsum.photos/200` e classe `small-image`. Esse elemento deve ser filho do `section` criado no passo 5;
-      const elementImg = document.createElement('img');
-      elementImg.className = 'small-image';
-      elementImg.src = 'https://picsum.photos/200';
-      elementSectionLeft.appendChild(elementImg);
+      // Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, `um`, `dois`, `três`, ... como valores da lista. Essa lista deve ser filha do `section` criado no passo 6;
+      const elementUl = document.createElement('ul');
+      elementSectionRight.appendChild(elementUl);
+      const arrayNumbers = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis',
+        'Sete', 'Oito', 'Nove', 'Dez']
+      for (let num in arrayNumbers) {
+        const elementLi = document.createElement('li');
+        elementLi.innerHTML = arrayNumbers[num];
+        elementUl.appendChild(elementLi);
+      }
 
       // Adicione 3 tags `h3`, todas sendo filhas do `main` criado no passo 2.
       for (let index = 1; index <= 3; index += 1) {
@@ -106,6 +111,9 @@
         elementMain.appendChild(elementH3);
       }
 
+      // Adicione a classe title na tag h1 criada;
+      const title = document.querySelector('h1');
+      title.className = 'title';     
     </script>
   </body>
 </html>
