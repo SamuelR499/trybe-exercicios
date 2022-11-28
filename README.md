@@ -39,7 +39,7 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 ##### Seção 5: Introdução - JavaScript - Projetos
 
 - [x] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - trabalhando com elementos_
+- [x] 5-2: _JavaScript - trabalhando com elementos_
 - [ ] 5-3: _JavaScript - Eventos_
 - [ ] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Project - Meme Generator]()_
