@@ -42,7 +42,7 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 5-2: _JavaScript - trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Project - Meme Generator]()_
+- [x] 5-5: _[Project - Meme Generator](https://github.com/SamuelR499/meme-generator)_
 - [ ] 5-6: _[Project - Pixel Art]()_
 - [ ] 5-7: _[Project - To-do list]()_
 - [ ] 5-7: _[Project - Guess the color]()_
