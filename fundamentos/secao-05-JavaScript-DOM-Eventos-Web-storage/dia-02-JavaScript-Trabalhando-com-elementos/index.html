@@ -71,6 +71,11 @@
       const elementSectionCenter = document.createElement('section');
       elementSectionCenter.className = 'center-content';
       elementMain.appendChild(elementSectionCenter);
+
+      // Adicione a tag `p` como filho do `section` criado no passo 3 e coloque algum texto;
+      const paragraph = document.createElement('p');
+      paragraph.innerHTML = 'Texto Show';
+      elementSectionCenter.appendChild(paragraph);
     </script>
   </body>
 </html>
