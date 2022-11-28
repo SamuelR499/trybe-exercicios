@@ -43,8 +43,19 @@
   </style>
   <script>
     window.onload = () => {
+      const setBackgroundColor = (color) => {
+        let content = document.querySelector(".content");
+        content.style.backgroundColor = color;
+        localStorage.setItem("backgroundColor", color);
+      };
 
-    }
+      const initialize = () => {
+        let backgroundColor = localStorage.getItem("backgroundColor");
+        if(backgroundColor) setBackgroundColor(backgroundColor);
+      };
+      
+      initialize()
+    };
   </script>
 </head>
 <body>
