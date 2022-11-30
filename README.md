@@ -36,12 +36,21 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 4-6: _[Projeto - Playground Functions](https://github.com/SamuelR499/playground-functions)_
 
-##### Seção 5: Introdução - JavaScript - Projetos
+##### Seção 5 JavaScript: DOM Eventos e Web Storage
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Project - Meme Generator](https://github.com/SamuelR499/meme-generator)_
-- [x] 5-6: _[Project - Pixel Art](https://github.com/SamuelR499/pixels-art)_
-- [x] 5-7: _[Project - To-do list](https://github.com/SamuelR499/todo-list)_
+- [x] 5-5: _[Projecto - Meme Generator](https://github.com/SamuelR499/meme-generator)_
+- [x] 5-6: _[Projecto - Pixel Art](https://github.com/SamuelR499/pixels-art)_
+- [x] 5-7: _[Projecto - To-do list](https://github.com/SamuelR499/todo-list)_
+
+##### Seção 6: HTML & CSS: Forms Flexbox e Responsivo
+
+- [ ] 6-1: _HTML & CSS - Forms_
+- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] 6-3: _CSS Flexbox - Parte 1_
+- [ ] 6-4: _CSS Flexbox - Parte 2_
+- [ ] 6-5: _CSS Responsivo - Mobile First_
+- [ ] 6-6: _[Projecto - Trybewarts]()_
