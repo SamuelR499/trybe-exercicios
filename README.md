@@ -51,6 +51,6 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [x] 6-3: _CSS Flexbox - Parte 1_
-- [ ] 6-4: _CSS Flexbox - Parte 2_
+- [x] 6-4: _CSS Flexbox - Parte 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Trybewarts]()_
