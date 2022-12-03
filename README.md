@@ -7,6 +7,16 @@ Trybe é uma escola do futuro para todos que querem melhorar de vida e construir
 
 São mais de 1500 horas de aulas presenciais e online, o currículo inclui introdução ao desenvolvimento de software, desenvolvimento front-end, desenvolvimento back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
+# Sumário
+
+* [Fundamentos de Desenvolvimento Web](#fundamentos-de-desenvolvimento-web-white_check_mark)
+  - [Seção 1: Introdução - Unix & Shell](#seção-1-introdução---unix--shell)
+  - [Seção 2: Git & GitHub](#seção-2-git--github)
+  - [Seção 3: Introdução - HTML & CSS](#seção-3-introdução---html--css)
+  - [Seção 4: Introdução - JavaScript](#seção-4-introdução---javascript)
+  - [Seção 5 JavaScript: DOM Eventos e Web Storage](#seção-5-javascript-dom-eventos-e-web-storage)
+  - [Seção 6: HTML & CSS: Forms Flexbox e Responsivo](#seção-6-html--css-forms-flexbox-e-responsivo)
+
 ## Fundamentos de Desenvolvimento Web :white_check_mark:
 
 ##### Seção 1: Introdução - Unix & Shell
