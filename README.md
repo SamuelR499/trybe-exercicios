@@ -95,7 +95,7 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 ##### Seção 7: JavaScript ES6 e Testes Unitários
 
-- [ ] 7-1: _Fluxo de exceções e manipulação de objetos_
+- [x] 7-1: _Fluxo de exceções e manipulação de objetos_
 - [ ] 7-2: _Primeiros passos em Jest_
 - [ ] 7-3: _Matchers e cobertura de código_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
