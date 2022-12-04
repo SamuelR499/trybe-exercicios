@@ -34,4 +34,5 @@ const decode = (string) => {
   return mapString(map, string);
 }
 
-console.log(encode('teste trybe'));
+const functions = { encode, decode };
+module.exports = functions;
