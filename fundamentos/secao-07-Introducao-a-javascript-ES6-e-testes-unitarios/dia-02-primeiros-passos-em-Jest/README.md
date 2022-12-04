@@ -1,12 +1,16 @@
-##  > ATENÇÃO <
+##  > ATENÇÃO ⚙️ <
 
-para rodar os teste
+--
 
-rode o comando 
+para rodar os testes 🧪.
+
+- ✓ rode o comando `npm install`:
+
 ```sh
 npm install
 ```
-em seguinda
+
+- ✓ e em seguinda `npm run test`:
 
 ```sh
 npm run test
