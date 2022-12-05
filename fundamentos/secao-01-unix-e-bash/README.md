@@ -1,4 +1,4 @@
-# Seção - Unix e Bash
+# Seção 1 - Unix e Bash
 
 Essa seção pertence ao módulo de `fundamentos` do curso  de `` Desenvolvimento Web`` da [Trybe](https://www.betrybe.com/). Nessa seção aprendi sobre os principais comandos e conceitos sobre terminal, interagindo com o Unix através do terminal, utilizando o Bash.
 

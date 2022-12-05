@@ -1,4 +1,4 @@
-# Seção - HTML e CSS: Forms, Flexbox e Responsivo
+# Seção 6 - HTML e CSS: Forms, Flexbox e Responsivo
 
 Essa seção pertence ao módulo de `fundamentos` do curso de `` Desenvolvimento Web`` da [Trybe](https://www.betrybe.com/). Nessa seção aprendi sobre formulários em HTML, que são uma forma de enviar informações para outra página do seu site ou para um servidor.
 

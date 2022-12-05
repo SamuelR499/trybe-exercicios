@@ -1,4 +1,3 @@
-// sum.test.js
 const sum = require('../sum.js');
 
 describe('testa a função sum', () => {
