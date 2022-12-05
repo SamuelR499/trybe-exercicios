@@ -1,4 +1,4 @@
-# Seção - JavaScript
+# Seção 4 - JavaScript
 
 Essa seção pertence ao módulo de `fundamentos` do curso de `` Desenvolvimento Web`` da [Trybe](https://www.betrybe.com/). Nessa seção aprendi sobre a lingu Nessa seção aprendi sobre a linguagem de Programação JavaScript. tive conhecimento sobre: 
 - variáveis;

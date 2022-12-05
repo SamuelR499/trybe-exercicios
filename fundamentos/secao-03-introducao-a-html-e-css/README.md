@@ -1,4 +1,4 @@
-# Seção - HTML & CSS
+# Seção 3 - HTML & CSS
 
 Essa seção pertence ao módulo de `fundamentos` do curso  de `` Desenvolvimento Web`` da [Trybe](https://www.betrybe.com/). Nessa seção aprendi estruturar páginas web com HTML e estilizalas com CSS e criar paginas  semanticamente válidas e acessíveis.
 

@@ -1,4 +1,4 @@
-# Seção - JavaScript, DOM e Web Storage
+# Seção 5 - JavaScript, DOM e Web Storage
 
 Essa seção pertence ao módulo de `fundamentos` do curso de `` Desenvolvimento Web`` da [Trybe](https://www.betrybe.com/). Nessa seção aprendi sobre conhecimento sobre DOM(Document Object Model) que é uma interface de programação para documentos HTML, XML e SVG. Nessa seção uitlizei DOM para documentos HTML, com JavaScript, utilizando seletroes, criando eventos e manipulando localStorage e SessionStorage.
 O DOM define métodos que permitem acesso à árvore, para que eles possam alterar a estrutura, estilo e conteúdo do documento.
