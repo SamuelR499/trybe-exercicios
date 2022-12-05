@@ -101,8 +101,8 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 ##### Seção 8: Higher Order Functions do JavaScript ES6
 
-- [ ] 8-1: _Introdução a Higher Order Functions_
-- [ ] 8-2: _Higher Order Functions - sort e map_
+- [x] 8-1: _Introdução a Higher Order Functions_
+- [x] 8-2: _Higher Order Functions - sort e map_
 - [ ] 8-3: _Higher Order Functions - filter e reduce_
 - [ ] 8-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
 - [ ] 8-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
