@@ -105,8 +105,8 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 8-2: _Higher Order Functions - sort e map_
 - [x] 8-3: _Higher Order Functions - filter e reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
-- [ ] 8-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
-- [ ] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
+- [x] 8-6: _[Projeto - Zoo functions](https://github.com/SamuelR499/zoo-functions)_
 
 ## Desenvolvimento front-end :hourglass_flowing_sand:
 
