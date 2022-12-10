@@ -1,0 +1,16 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "vite --open"
+  },
+  "author": "samuel ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "vite": "^4.0.0"
+  }
+}
