@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "vite --open"
+    "dev": "vite --open",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
   },
   "author": "samuel ribeiro",
   "license": "ISC",
   "dependencies": {
+    "eslint-config-trybe-frontend": "^1.3.1",
     "validator": "^13.7.0",
     "vite": "^4.0.0"
   }
