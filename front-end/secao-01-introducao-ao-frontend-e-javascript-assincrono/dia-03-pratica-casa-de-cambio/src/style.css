@@ -1,0 +1,118 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color:#282C33;
+  font-family: Fira Code;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #ffff;
+  margin-top: 63px;
+  height: 74px;
+  font-weight: 700;
+  margin-right: 220px;
+}
+
+.title span {
+  color: #95eba8;
+}
+
+.small {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #ffff;
+  margin-right: 380px;
+}
+
+.input-frame {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 50px;
+  margin-top: 7px;
+
+}
+
+.input-frame input {
+  background-color: rgba(217, 217, 217, 0.1);
+  color: rgb(161, 161, 165);
+  width: 171px;
+  height: 42.4px;
+  border-radius: 10px;
+  border: none;
+  padding: 5px;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.input-frame button {
+  background-color: rgba(150, 235, 149, 1);
+  color: rgba(55, 55, 55, 1);
+  width: 171px;
+  height: 49.6px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.input-frame ::placeholder {
+  color: #fff;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: rgb(161, 161, 165);
+  padding: 5px;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.curr-title {
+  
+}
+.curr-frame {
+
+  border: 1px black solid;
+  padding: 10px;
+  Width: 900px;
+  Height: 583px;
+  overflow-y: scroll;
+  background-color:#FFFFFF0F;
+  border-radius: 20px;
+  opacity: 0.6;
+}
+
+.curr-title {
+  margin-left: 300px;
+  padding: 5px;
+  margin-bottom: 12px;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.currencies {
+  display:flex;
+  margin: auto;
+  max-width: 2000px;
+  max-height: 600px;
+  flex-flow: column wrap;
+  justify-content: space-between;
+}
+
+p  {
+  margin:5px;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 0.7em;
+  background-color: aliceblue;
+
+}
