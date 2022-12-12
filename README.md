@@ -112,9 +112,9 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 ##### Seção 1: Introdução ao Frontend e Javascript assíncrono
 
-- [ ] 1-1: _Ambiente de desenvolvimento_
-- [ ] 1-2: _JavaScript Assíncrono - Promises e fetch_
-- [ ] 1-3: _Prática - Casa de câmbio_
+- [x] 1-1: _Ambiente de desenvolvimento_
+- [x] 1-2: _JavaScript Assíncrono - Promises e fetch_
+- [x] 1-3: _Prática - Casa de câmbio_
 - [ ] 1-4: _Async, await e testes assíncronos_
 - [ ] 1-5: _[Projeto - Carrinho de compras]()_
 
