@@ -1,0 +1,34 @@
+{
+  "name": "exercise-casa-de-cambio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "eslin ./src",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarodolzane/exercise-casa-de-cambio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icarodolzane/exercise-casa-de-cambio/issues"
+  },
+  "homepage": "https://github.com/icarodolzane/exercise-casa-de-cambio#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "sweetalert2": "^11.6.15",
+    "vite": "^3.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.5.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
