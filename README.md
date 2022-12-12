@@ -115,8 +115,8 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 - [x] 1-1: _Ambiente de desenvolvimento_
 - [x] 1-2: _JavaScript Assíncrono - Promises e fetch_
 - [x] 1-3: _Prática - Casa de câmbio_
-- [ ] 1-4: _Async, await e testes assíncronos_
-- [ ] 1-5: _[Projeto - Carrinho de compras]()_
+- [x] 1-4: _Async, await e testes assíncronos_
+- [x] 1-5: _[Projeto - Carrinho de compras](https://github.com/SamuelR499/shopping-cart)_
 
 ##### Seção 2: Introdução ao React
 
