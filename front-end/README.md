@@ -21,4 +21,4 @@ Nesse módulo aprendi sobre `Front-end` do desenvolvimento Web, aplicando de for
 --
 
 
-Este diretório contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de `Front-end` do curso da [Trybe](https://www.betrybe.com/). #VQV 🚀🚀🚀
+Este diretório contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de `Front-end` do curso da [Trybe](https://www.betrybe.com/). #VQV 🚀🚀
