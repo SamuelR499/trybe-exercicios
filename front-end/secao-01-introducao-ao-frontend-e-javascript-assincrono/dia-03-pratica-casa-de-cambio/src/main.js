@@ -28,7 +28,7 @@ function renderCurrencies (curr) {
   console.log('Entries result -----> ', currenciesArray)
   currenciesArray.forEach((curr) => {
     const [currName, value] = curr
-    currTittle.innerText = `Values related to 1 ${currInput.value.toUpperCase()}`
+    currTittle.innerText = `Valores para 1 ${currInput.value.toUpperCase()}`
     const p = document.createElement('p')
     p.textContent = `${currName} - ${value.toFixed(3)}`
     p.className = 'text-bg-dark p-3'
