@@ -120,7 +120,7 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 ##### Seção 2: Introdução ao React
 
-- [ ] 2-1: _'Hello, world!' no React!_
+- [x] 2-1: _'Hello, world!' no React!_
 - [ ] 2-2: _Componentes React_
 - [ ] 2-3: _[Projeto - Solar System]()_
 
