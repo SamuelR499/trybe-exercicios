@@ -76,43 +76,58 @@ body{
   font-size: 16px;
 }
 
-.curr-title {
-  
-}
 .curr-frame {
-
-  border: 1px black solid;
+  border: 1px rgba(55, 55, 55, 1) solid;
   padding: 10px;
   Width: 900px;
   Height: 583px;
   overflow-y: scroll;
-  background-color:#FFFFFF0F;
+  background-color:rgba(217, 217, 217, 0.1);
   border-radius: 20px;
   opacity: 0.6;
 }
 
 .curr-title {
-  margin-left: 300px;
+  display: flex;
+  align-self: center;
+  margin: 0 auto;
   padding: 5px;
+  padding-left: 8rem;
   margin-bottom: 12px;
   width: 350px;
   border-radius: 10px;
 }
 
 .currencies {
-  display:flex;
+  display:grid;
   margin: auto;
   max-width: 2000px;
   max-height: 600px;
-  flex-flow: column wrap;
-  justify-content: space-between;
+  grid-template-columns: repeat(7, 1fr);
+  grid-auto-rows: 30px;
+}
+
+.curr-frame::-webkit-scrollbar {
+  background-color: rgba(55, 55, 55, 1);
+  width: 10px;
+  border-radius: 10px;
+}
+
+.curr-frame::-webkit-scrollbar-thumb {
+  background-color: rgba(150, 235, 149, 1);
+  width: 10px;
+  border-radius: 10px;
+
 }
 
 p  {
-  margin:5px;
+  display: flex;
+  align-items: center;
+  color: rgba(55, 55, 55, 1);
+  margin: 5px;
   padding: 5px;
   border-radius: 5px;
   font-size: 0.7em;
-  background-color: aliceblue;
-
+  background-color: rgba(150, 235, 149, 1);
+  font-weight: 700;
 }
