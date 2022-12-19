@@ -129,9 +129,9 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 ##### Seção 4: Ciclo de Vida de Componentes e React Router
 
-- [ ] 4-1: _Ciclo de vida de componentes_
-- [ ] 4-2: _React Router_
-- [ ] 4-3: _[Projeto - TrybeTunes]()_
+- [x] 4-1: _Ciclo de vida de componentes_
+- [x] 4-2: _React Router_
+- [x] 4-3: _[Projeto - TrybeTunes](https://github.com/SamuelR499/trybetunes)_
 
 ##### Seção 5: Metodologias Ágeis
 
