@@ -126,7 +126,6 @@ São mais de 1500 horas de aulas presenciais e online, o currículo inclui intro
 
 - [x] 3-1: _Componentes com estado e eventos_
 - [x] 3-2: _Formulários no React_
-- [x] 3-3: _[Projeto - Tryunfo]()_
 
 ##### Seção 4: Ciclo de Vida de Componentes e React Router
 
